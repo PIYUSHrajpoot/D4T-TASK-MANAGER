@@ -6,7 +6,7 @@ This project is a SIMPLE **Task Management System** designed with a **frontend**
 
 ---
 
-## 👀 APRESENTATION
+## 👀 PRESENTATION
 📌[Portuguese Version](https://youtu.be/PYJ2_EupL84)
 
 ---
