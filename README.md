@@ -6,6 +6,10 @@ This project is a SIMPLE **Task Management System** designed with a **frontend**
 
 ---
 
+## 👀 PRESENTATION
+📌[Portuguese Version](https://youtu.be/PYJ2_EupL84)
+
+---
 ## 🌐 Frontend
 
 - **Responsive components** using Angular Material.
