@@ -13,7 +13,7 @@ This project is a SIMPLE **Task Management System** designed with a **frontend**
 
 ## 🌱 DEMOS
 📌[FRONT](https://d4t-task-manager.onrender.com/api)
-📌[BACK]([https://d4t-task-manager.onrender.com/api](https://d4t-task-manager-b03957eis-erick-rosas-projects.vercel.app))
+📌[BACK](https://d4t-task-manager-b03957eis-erick-rosas-projects.vercel.app)
 
 ---
 ## 🌐 Frontend
