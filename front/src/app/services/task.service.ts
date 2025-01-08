@@ -7,7 +7,7 @@ import { Task, TasksResponse } from '../models/task.model';
   providedIn: 'root'
 })
 export class TaskService {
-  private apiUrl = 'http://localhost:3000/tasks';
+  private apiUrl = 'https://d4t-task-manager.onrender.com/tasks';
 
   constructor(private http: HttpClient) {}
 
