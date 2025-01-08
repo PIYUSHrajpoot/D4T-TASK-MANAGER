@@ -10,6 +10,12 @@ This project is a SIMPLE **Task Management System** designed with a **frontend**
 📌[Portuguese Version](https://youtu.be/PYJ2_EupL84)
 
 ---
+
+## 🌱 DEMOS
+📌[FRONT](https://d4t-task-manager.onrender.com/api)
+📌[BACK]([https://d4t-task-manager.onrender.com/api](https://d4t-task-manager-b03957eis-erick-rosas-projects.vercel.app))
+
+---
 ## 🌐 Frontend
 
 - **Responsive components** using Angular Material.
